@@ -1,4 +1,6 @@
 # codeclause_goldenproject_01
+
+# Building a Resume Parser Using NLP(Spacy) and Machine Learning 
  Building a resume parser using NLP (Natural Language Processing) with spaCy and machine learning refers to creating a software application that can automatically extract relevant information from resumes. Resumes often contain structured and unstructured information about an individual's educational background, work experience, skills, and contact details. The goal of a resume parser is to process these resumes and extract specific pieces of information in a structured format.
 
 # Here's a breakdown of the key components and steps mentioned:
