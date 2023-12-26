@@ -1,0 +1,21 @@
+IMPORTED LIBRARIES
+
+import pandas: This imports the pandas library, which is commonly used for data manipulation and analysis in Python. It provides data structures like DataFrame for working with structured data.
+
+import spacy: This imports the spaCy library, a powerful natural language processing (NLP) library in Python. It is used for various NLP tasks, such as tokenization, part-of-speech tagging, named entity recognition, etc.
+
+import nltk: This imports the Natural Language Toolkit (nltk), which is a library in Python for processing human language data. It provides tools for tasks like tokenization, stemming, and tagging.
+
+import matplotlib.pyplot as plt: This imports the pyplot module from the matplotlib library, which is used for creating visualizations, such as charts and plots.
+
+nltk.download('averaged_perceptron_tagger'): This line downloads the part-of-speech (POS) tagger model from NLTK. POS tagging is the process of assigning parts of speech (e.g., noun, verb) to words in a sentence.
+
+from nltk import pos_tag: This imports the POS tagging function from NLTK. It will be used to tag parts of speech in a sentence.
+
+from nltk.corpus import stopwords: This imports the NLTK stopwords corpus, which contains common words (e.g., "the," "and," "is") that are often removed in text processing tasks because they carry little meaning.
+
+nltk.download('stopwords'), nltk.download('wordnet'), nltk.download('omw-1.4'): These lines download additional resources from NLTK, including the stopwords list, WordNet (a lexical database of English), and Open Multilingual Wordnet (OMW) version 1.4.
+
+import string: This imports the string module, which provides common string operations and constants like punctuation characters.
+
+import re: This imports the regular expressions (regex) module, which allows for pattern matching and manipulation of strings based on specified rules.
